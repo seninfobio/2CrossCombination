@@ -7,6 +7,7 @@
 2. Pallett 2006 [Within-population variation in hybridisation and transgene transfer between wild Brassica rapa and Brassica napus in the UK](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1744-7348.2006.00049.x)
 3. Xiao 2009 [Gene transferability from transgenic Brassica napus L. to various subspecies and varieties of Brassica rapa](https://link.springer.com/article/10.1007/s11248-009-9261-4#Sec2)
 4. Hong 2016[Identifying the F1 hybrids of the simulated GM Brassica napus and Brassica rapa.](https://www.cabdirect.org/cabdirect/abstract/20163309549)
+5. [Growth, productivity, and competitiveness of introgressed weedy Brassica rapa hybrids selected for the presence of Bt cry1Ac and gfp transgenes]()
 
 
 
